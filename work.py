@@ -2,3 +2,5 @@
 
 def output():
     print("success")
+
+output()
